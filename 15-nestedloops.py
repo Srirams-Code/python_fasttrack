@@ -17,3 +17,8 @@ for x in range(rows):
     for y in range(cols):
         print("*" , end=" ")
     print()
+
+for x in range(rows):
+    for y in range(cols):
+        print("*" , end=" ")
+    print()
